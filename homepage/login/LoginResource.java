@@ -5,6 +5,8 @@ public class LoginResource {
 		//public void systemMenu() {
 		System.out.println("dkssud안녕안녕.");
 		System.out.println("ASDasdasdsad");
+		System.out.println("ASDasdasdsad");
+		System.out.println("ASDasdasdsad");
 
 	}
 }
