@@ -6,5 +6,6 @@ public class LoginResource {
 		System.out.println("dkssud안녕안녕.");
 		System.out.println("ASDasdasdsad");
 
+		System.out.println("로그인 기능 구현");
 	}
 }
